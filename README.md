@@ -7,4 +7,5 @@ How to submit your library?
 - Detail metadata about it.
 - Provide a link to the code.
 - Contact info (email, telegram, etc)
+- Make sure to use the `request` tag
 - Submit!
